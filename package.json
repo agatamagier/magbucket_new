@@ -5,7 +5,7 @@
   "author": "Agata Magier <magier.agata@gmail.com>",
   "private": true,
   "wst": "/dist/",
-  "homepage": "https://agatamagier.github.io/magbucket",
+  "homepage": "https://agatamagier.github.io/magbucket_new",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
